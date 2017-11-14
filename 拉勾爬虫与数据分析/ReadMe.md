@@ -26,5 +26,5 @@ python语言开发的工作经验需求集中在1-3年；python语言目前较�
 薪酬随经验上升而上升
 
 ## 职业技能关键词
-![](https://github.com/tjnu1430130310/spider/blob/master/%E6%8B%89%E5%8B%BE%E7%88%AC%E8%99%AB%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/img/wordcloud.png)
+![](https://github.com/tjnu1430130310/spider/blob/master/%E6%8B%89%E5%8B%BE%E7%88%AC%E8%99%AB%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/img/wordcloud_by_pyplot.png)
 需要忽略“nbsp”和“br”（数据没清洗干净。。。）
