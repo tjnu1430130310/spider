@@ -10,7 +10,8 @@
 
 ## 爬虫、数据来源和数据集
 数据来自拉勾网，通过神箭手云爬虫工具爬取数据。主要使用Pandas作为数据整理和统计分析的工具，jieba作为分词工具，wordcloud制作词云，使用matplotlib画图。代码在https://github.com/tjnu1430130310/spider/blob/master/%E6%8B%89%E5%8B%BE%E7%88%AC%E8%99%AB%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Lagou_python_by20171107.ipynb
-爬虫代码和数据集稍后给出。
+爬虫代码稍后给出。
+数据集在https://github.com/tjnu1430130310/spider/blob/master/%E6%8B%89%E5%8B%BE%E7%88%AC%E8%99%AB%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/crawler-data-807367-20171108python.csv
 
 ## 地域分布
 ![](https://github.com/tjnu1430130310/spider/blob/master/拉勾爬虫与数据分析/img/city_count.png)
