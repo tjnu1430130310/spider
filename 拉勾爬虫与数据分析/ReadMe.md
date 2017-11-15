@@ -9,8 +9,12 @@
 学了一点数据分析的概念，突然想要看看Python的就业形势怎样，于是就想试试使用数据分析一下。数据整理和清洗没做好，接下来会继续认真学习数据分析。
 
 ## 爬虫、数据来源和数据集
-数据来自拉勾网，通过神箭手云爬虫工具爬取数据。主要使用Pandas作为数据整理和统计分析的工具，jieba作为分词工具，wordcloud制作词云，使用matplotlib画图。代码在https://github.com/tjnu1430130310/spider/blob/master/%E6%8B%89%E5%8B%BE%E7%88%AC%E8%99%AB%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Lagou_python_by20171107.ipynb
+数据来自拉勾网，通过神箭手云爬虫工具爬取数据。主要使用Pandas作为数据整理和统计分析的工具，jieba作为分词工具，wordcloud制作词云，使用matplotlib画图。
+
+代码在https://github.com/tjnu1430130310/spider/blob/master/%E6%8B%89%E5%8B%BE%E7%88%AC%E8%99%AB%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Lagou_python_by20171107.ipynb
+
 爬虫代码稍后给出。
+
 数据集在https://github.com/tjnu1430130310/spider/blob/master/%E6%8B%89%E5%8B%BE%E7%88%AC%E8%99%AB%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/crawler-data-807367-20171108python.csv
 
 ## 地域分布
@@ -38,6 +42,7 @@ python语言开发的工作经验需求集中在1-3年；python语言目前较�
 ## 职业技能关键词
 ![](https://github.com/tjnu1430130310/spider/blob/master/%E6%8B%89%E5%8B%BE%E7%88%AC%E8%99%AB%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/img/wordcloud_by_pyplot.png)
 需要忽略“nbsp”和“br”（数据没清洗干净。。。）
+
 python开发主要是web开发，需要掌握web开发相关知识和技能，包括html、javascript，web框架有django、Flask，环境使用Linux，数据库多使用MySQL、MongoDB，需要一些爬虫、Java、php的经验，需要团队意识。
 
 ### 未完待续
