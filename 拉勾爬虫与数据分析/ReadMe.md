@@ -37,6 +37,6 @@ python语言开发的工作经验需求集中在1-3年；python语言目前较�
 ## 职业技能关键词
 ![](https://github.com/tjnu1430130310/spider/blob/master/%E6%8B%89%E5%8B%BE%E7%88%AC%E8%99%AB%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/img/wordcloud_by_pyplot.png)
 需要忽略“nbsp”和“br”（数据没清洗干净。。。）
-python开发主要是web开发，web框架有django、Flask，环境使用Linux，数据库多使用MySQL，需要一些爬虫、Java、php和asp的经验，需要团队意识。
+python开发主要是web开发，需要掌握web开发相关知识和技能，包括html、javascript，web框架有django、Flask，环境使用Linux，数据库多使用MySQL、MongoDB，需要一些爬虫、Java、php的经验，需要团队意识。
 
 ### 未完待续
